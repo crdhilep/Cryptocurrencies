@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Source: ![crypto_clustering](crypto_clustering.ipynb)
+Source: [crypto_clustering](crypto_clustering.ipynb)
 
 ## Overview
 
